@@ -1,0 +1,1 @@
+{"name":"scholarlink","version":"1.0.0","description":"ScholarLink frontend preview server","scripts":{"start":"node server.js"},"devDependencies":{}}
